@@ -1,5 +1,5 @@
 function yourName() {
-    return "Anastasiia Morokhovych";
+    return "Vladyslav";
 }
 
 console.log(yourName());

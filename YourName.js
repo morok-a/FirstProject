@@ -1,5 +1,6 @@
 function yourName() {
-    return "Anastasiia Morokhovych";
+    //delete Last name
+    return "Anastasiia";
 }
 
 console.log(yourName());
